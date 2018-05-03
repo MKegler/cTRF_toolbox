@@ -4,7 +4,7 @@
 # Package including functions related to training the models.
 #
 # Author: Mikolaj Kegler
-# Date: 03.04.2018
+# Date: 03.05.2018
 #
 
 import numpy as np
