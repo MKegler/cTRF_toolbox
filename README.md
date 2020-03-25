@@ -4,11 +4,11 @@ Mikolaj Kegler
 
 Contact: mikolaj.kegler16@imperial.ac.uk
 
-Imperial College London, 27.10.2019
+Imperial College London, 25.03.2020
 
 Example use of python implementation of the complex TRF modelling (cTRF) toolbox developed and applied in [Etard, et. al., 2019].
 
-To download the sample data that can be processed with this script please use the following link: https://imperiallondon-my.sharepoint.com/:f:/g/personal/mak616_ic_ac_uk/En-V7CKltGdPqYKzd5xJ6a0BljqepRaHF-m9ta__LdtYhA?e=NgMXUv. The sample EEG and fundamental waveform data are the same as used in the paper and were obtained as described in the methods section.
+To download the sample data that can be processed with this script please follow [this link](https://imperialcollegelondon.box.com/s/k3vt564g56tulf6aty55yeqlqvazvgfl). The sample EEG and fundamental waveform data are the same as used in the paper and were obtained as described in the methods section.
 
 Required packages to run this demo:
 - MNE https://martinos.org/mne/dev/index.html
